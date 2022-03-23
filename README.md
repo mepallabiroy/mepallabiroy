@@ -23,8 +23,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="![image](https://user-images.githubusercontent.com/60519946/159628986-b36eef13-547e-4d45-ab0e-85490ea5ba08.png)"></code>
-<code><img height="20" src="![image](https://user-images.githubusercontent.com/60519946/159628986-b36eef13-547e-4d45-ab0e-85490ea5ba08.png)"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/mepallabiroy">
