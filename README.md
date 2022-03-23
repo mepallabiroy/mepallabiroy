@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mepallabiroy&label=Views&color=blue&style=plastic" alt="mepallabiroy" /> </p>
 
 -👋 Hi, Hope you are doing great !!!
-- 👀 I’m interested in Machine Learning, coding and exploring new technology.
-- 🌱 I’m currently learning Machine Learning and exploring its various applications.
+- 👀 I’m interested in Web and app development,  Machine Learning, coding and exploring new technology.
+- 🌱 I’m currently learning Web development and exploring its various applications.
 - 💞️ I’m open to work and am looking for new opportunities.
 - 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/pallabi-roy-91ba03184/), [Twitter](https://twitter.com/mepallabiroy), [Email](mepallabiroy@gmail.com), [Instagram](https://www.instagram.com/m.i.s.s_r.o.y/)
 - 😄 Pronouns: She/Her.
@@ -22,6 +22,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="![image](https://user-images.githubusercontent.com/60519946/159628986-b36eef13-547e-4d45-ab0e-85490ea5ba08.png)"></code>
+<code><img height="20" src="![image](https://user-images.githubusercontent.com/60519946/159628986-b36eef13-547e-4d45-ab0e-85490ea5ba08.png)"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <a href="https://github.com/mepallabiroy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mepallabiroy&theme=light&hide_langs_below=1" />
